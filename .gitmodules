@@ -1,0 +1,6 @@
+[submodule "ocgcore"]
+	path = ocgcore
+	url = git@github.com:AstralHope/ygopro-core.git
+[submodule "script"]
+	path = script
+	url = git@github.com:AstralHope/ygopro-scripts.git
